@@ -1,5 +1,8 @@
 # REEEEEEEEEElock
 
+*Disclaimer: This is also a joke repository I made when I was 14
+
+
 Aight look. The REEEEEEEEEEgun is great for keeping people from going near your door to your room, but doesn't necessarily stop them once they get there. Once someone gets close enough to your door to avoid the REEEEEEEEEEgun, then RIP ur search history. To combat this, I created the REEEEEEEEEElock, which is an arduino-powered smart locking mechanism which uses facial identification to allow someone to enter your room. 
 
 
