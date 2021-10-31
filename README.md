@@ -14,8 +14,4 @@ Finally, upload the .ino file to your arduino and simultaneously run REEEEEEEEEE
 
 *Note, keep in mind all the notes from REEEEEEEEEEgun bc they all mostly apply. Change the arduino port make servo adjustments etc.
 
-*Note, you need to make sure that your face is the one being recognized and so if you don't want to change your code at all then take a picture of yourself and name it 'obama.jpg' and maybe a picture of your friend or dad or brother and name it 'biden.jpg'
 
-
-TODO: get another raspberry pi camera module so I don't have to use my own computer
-TODO: make the lock look nicer
